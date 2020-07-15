@@ -1,5 +1,10 @@
 # aide-js
 
+## Aide
+
+**_noun_** _/eɪd/_
+**_a person whose job is to help someone important_**
+
 > _the idea behind this projet is to have a collection of functions, which are commonly used._
 
 ## commands
@@ -10,6 +15,8 @@ $$ npm run build
 $$ npm run format
 $$ npm run lint
 ```
+
+## functions
 
 | name   | @params | @returns |
 | ------ | :-----: | :------: |
