@@ -1,11 +1,12 @@
 # aide-js
 
+> _the idea behind this projet is to have a collection of functions, which are commonly used._
+
 ## Aide
 
 **_noun_** _/eɪd/_
-**_a person whose job is to help someone important_**
 
-> _the idea behind this projet is to have a collection of functions, which are commonly used._
+**_a person whose job is to help someone important_**
 
 ## commands
 
